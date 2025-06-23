@@ -15,7 +15,7 @@ A simple, fun, and interactive Interview's webpage built with HTML, CSS, and Jav
 
 ## ✨ Demo
 
-![Preview](./screenshot.png)
+![Preview]([./screenshot.png](https://xuefeiwang001.github.io/interview-webpage/))
 
 ## 🛠️ Built With
 
@@ -23,6 +23,3 @@ A simple, fun, and interactive Interview's webpage built with HTML, CSS, and Jav
 - CSS3 (animations & transitions)
 - JavaScript (DOM interaction)
 
----
-
-Feel free to fork, customize, and send it to your Valentine! 💌  
